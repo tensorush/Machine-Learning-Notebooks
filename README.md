@@ -7,7 +7,6 @@
 [![Forks][forks-shield]][forks-url]
 [![MIT License][license-shield]][license-url]
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tensorush/Machine-Learning-Notebooks)
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 
 <p align="center">
