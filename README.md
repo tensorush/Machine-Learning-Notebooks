@@ -27,9 +27,11 @@
 
 ## :black_nib: [Workbooks](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks)
 
-- ### [100 Numpy Exercises](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Exercises/100%20Numpy%20Exercises.ipynb)
+- ### [100 Numpy Exercises](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/100%20Numpy%20Exercises.ipynb) [Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/100%20Numpy%20Exercises.ipynb)
 
-- ### [ODS ML Course](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Exercises/ODS-ML-Course)
+- ### [ODS ML Course](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/ODS-ML-Course)
+
+  - ### [Lesson 1 — Practice Pandas Titanic](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/ODS-ML-Course/Lesson%201%20-%20Practice%20Pandas%20Titanic.ipynb) [Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/ODS-ML-Course/Lesson%201%20-%20Practice%20Pandas%20Titanic.ipynb)
 
 ## :man_teacher: Learning Resources
 
