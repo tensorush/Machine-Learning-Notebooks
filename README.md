@@ -29,7 +29,7 @@
 
 - ### [100 Numpy Exercises](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Exercises/100%20Numpy%20Exercises.ipynb)
 
-- ### [ODS ML Course](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Exercises/ODS%20ML%20Course)
+- ### [ODS ML Course](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Exercises/ODS-ML-Course)
 
 ## :man_teacher: Learning Resources
 
