@@ -8,10 +8,10 @@
 [![MIT License][license-shield]][license-url]
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tensorush/Machine-Learning-Notebooks)
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 
 <p align="center">
-    <img src="https://bleuje.github.io/mp4set/2020/mp4/2020_14.mp4">
+    <img src="https://bleuje.github.io/gifset/2020/gifs/2020_14_antennas.gif">
 </p>
 
 <h4 align="center"> 
