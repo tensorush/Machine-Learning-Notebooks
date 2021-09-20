@@ -21,7 +21,7 @@
 
 > ### _Any corrections are much appreciated!_ :hugs:
 
-## :ice_cube: The dataset I'm currently utilising for the task of photorealistic 3D mesh reconstruction via multi-view object synthesis is [Common Objects in 3D](https://github.com/facebookresearch/co3d). The Facebook's CO3D dataset contains a total of 1.5 million frames from nearly 19,000 videos capturing objects from 50 MS-COCO categories. As such, it surpasses alternatives in terms of both the number of categories as well as objects. The dataset is suitable for learning category-specific 3D mesh reconstruction and novel-view synthesis methods, such as the seminal NeRF!
+## :ice_cube: The dataset I'm currently utilising for the task of photorealistic 3D object reconstruction via multi-view synthesis is [Common Objects in 3D (CO3D)](https://github.com/facebookresearch/co3d). The Facebook's CO3D dataset contains a total of 1.5 million frames from nearly 19,000 videos capturing objects from 50 MS-COCO categories. As such, it surpasses alternatives in terms of both the number of categories as well as objects. The dataset is suitable for learning category-specific 3D mesh reconstruction and novel-view synthesis methods, such as the seminal NeRF!
 
 ## :notebook: [Notebooks (coming soon...)](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks)
 
@@ -32,6 +32,8 @@
 - ### [ODS ML Course](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/ODS-ML-Course)
 
   - ### [Lesson 1 — Practice Pandas Titanic](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/ODS-ML-Course/Lesson%201%20-%20Practice%20Pandas%20Titanic.ipynb) [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/ODS-ML-Course/Lesson%201%20-%20Practice%20Pandas%20Titanic.ipynb)
+
+  - ### [Lesson 2 — Practice Visualization Titanic](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/ODS-ML-Course/Lesson%202%20-%20Practice%20Visualization%20Titanic.ipynb) [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/ODS-ML-Course/Lesson%202%20-%20Practice%20Visualization%20Titanic.ipynb)
 
 ## :man_teacher: Learning Resources
 
