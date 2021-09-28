@@ -25,7 +25,7 @@
 
 ## :notebook: [Notebooks](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks)
 
-### :globe_with_meridians: [Gradient Descent Methods](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods/Gradient%20Descent%20Methods.ipynb)
+### :globe_with_meridians: [Gradient Descent Methods](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods/Gradient%20Descent%20Methods.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg#button)](https://colab.research.google.com/github/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods/Gradient%20Descent%20Methods.ipynb)
 
 ## :black_nib: [Workbooks](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks)
 
