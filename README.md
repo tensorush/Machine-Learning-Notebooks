@@ -23,7 +23,9 @@
 
 ## :ice_cube: The dataset I'm currently utilising for the task of photorealistic 3D object reconstruction via multi-view synthesis is [Common Objects in 3D (CO3D)](https://github.com/facebookresearch/co3d). The Facebook's CO3D dataset contains a total of 1.5 million frames from nearly 19,000 videos capturing objects from 50 MS-COCO categories. As such, it surpasses alternatives in terms of both the number of categories as well as objects. The dataset is suitable for learning category-specific 3D mesh reconstruction and novel-view synthesis methods, such as the seminal NeRF!
 
-## :notebook: [Notebooks (coming soon...)](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks)
+## :notebook: [Notebooks](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks)
+
+### :globe_with_meridians: [Gradient Descent Methods](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods/Gradient%20Descent%20Methods.ipynb)
 
 ## :black_nib: [Workbooks](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks)
 
