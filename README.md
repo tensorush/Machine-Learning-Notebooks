@@ -57,6 +57,8 @@
 
 ### :tv: [Probabilistic Machine Learning by Philipp Hennig](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 
+### :man_technologist: [Optimization Methods Course by Daniil Merkulov](https://github.com/MerkulovDaniil/optim)
+
 ### :tv: [Applied Machine Learning by Volodymyr Kuleshov](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
 ### :tv: [Statistical Machine Learning by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
