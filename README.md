@@ -17,7 +17,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :card_file_box: Notebook archive showcasing numpy implementations of machine learning algorithms.
+## :card_file_box: Notebook storage containing numpy implementations of machine learning algorithms.
 
 > ### _Any corrections are much appreciated!_ :hugs:
 
@@ -25,7 +25,11 @@
 
 ## :notebook: [Notebooks](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks)
 
-### :globe_with_meridians: [Gradient Descent Methods](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods/Gradient%20Descent%20Methods.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg#button)](https://colab.research.google.com/github/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods/Gradient%20Descent%20Methods.ipynb)
+- ### :globe_with_meridians: [Optimization Methods](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods)
+
+- #### :dna: [Genetic Algorithms](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods/Genetic%20Algorithms.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg#button)](https://colab.research.google.com/github/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods/Genetic%20Algorithms.ipynb)
+
+- #### :arrow_heading_down: [Gradient Descent Methods](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods/Gradient%20Descent%20Methods.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg#button)](https://colab.research.google.com/github/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks/Optimization-Methods/Gradient%20Descent%20Methods.ipynb)
 
 ## :black_nib: [Workbooks](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks)
 
