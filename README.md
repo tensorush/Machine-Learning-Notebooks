@@ -65,11 +65,11 @@
 
 ### :man_technologist: [Optimization Methods Course by Daniil Merkulov](https://github.com/MerkulovDaniil/optim)
 
-### :man_technologist: [Optimization Methods Course by Alexandr Katrutsa](https://github.com/amkatrutsa/MIPT-Opt/blob/master/Spring2021/newton_quasi.ipynb)
-
 ### :tv: [Applied Machine Learning by Volodymyr Kuleshov](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
 ### :tv: [Statistical Machine Learning by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+
+### :man_technologist: [Optimization Methods Course by Alexandr Katrutsa](https://github.com/amkatrutsa/MIPT-Opt/blob/master/Spring2021/newton_quasi.ipynb)
 
 ### :tv: [Machine Learning From Scratch in Numpy by Erik Linder-Norén](https://github.com/eriklindernoren/ML-From-Scratch)
 
