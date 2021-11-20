@@ -53,6 +53,8 @@
 
 ### :tv: [Machine Learning by Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
 
+### :man_technologist: [Open Machine Learning Course at MIPT](https://github.com/girafe-ai/ml-mipt)
+
 ### :tv: [Machine Learning by Yaser Abu-Mostafa](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 
 ### :tv: [Machine Learning by Mathematical Monk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
@@ -63,9 +65,13 @@
 
 ### :man_technologist: [Optimization Methods Course by Daniil Merkulov](https://github.com/MerkulovDaniil/optim)
 
+### :man_technologist: [Optimization Methods Course by Alexandr Katrutsa](https://github.com/amkatrutsa/MIPT-Opt/blob/master/Spring2021/newton_quasi.ipynb)
+
 ### :tv: [Applied Machine Learning by Volodymyr Kuleshov](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
 ### :tv: [Statistical Machine Learning by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+
+### :tv: [Machine Learning From Scratch in Numpy by Erik Linder-Norén](https://github.com/eriklindernoren/ML-From-Scratch)
 
 <!-- MARKDOWN LINKS -->
 
