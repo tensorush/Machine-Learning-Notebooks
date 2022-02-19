@@ -17,11 +17,9 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :card_file_box: Notebook storage containing numpy implementations of machine learning algorithms.
+## :card_file_box: Notebook implementations of machine learning algorithms.
 
 > ### _Any corrections are much appreciated!_ :hugs:
-
-## :ice_cube: The dataset I'm currently utilising for the task of photorealistic 3D object reconstruction via multi-view synthesis is [Common Objects in 3D (CO3D)](https://github.com/facebookresearch/co3d). The Facebook's CO3D dataset contains a total of 1.5 million frames from nearly 19,000 videos capturing objects from 50 MS-COCO categories. As such, it surpasses alternatives in terms of both the number of categories as well as objects. The dataset is suitable for learning category-specific 3D mesh reconstruction and novel-view synthesis methods, such as the seminal NeRF!
 
 ## :notebook: [Notebooks](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Notebooks)
 
@@ -46,6 +44,8 @@
   - ### [Lesson 2 — Practice Visualization Titanic](https://github.com/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/ODS-ML-Course/Lesson%202%20-%20Practice%20Visualization%20Titanic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg#button)](https://colab.research.google.com/github/tensorush/Machine-Learning-Notebooks/blob/master/Workbooks/ODS-ML-Course/Lesson%202%20-%20Practice%20Visualization%20Titanic.ipynb)
 
 ## :man_teacher: Learning Resources
+
+### :man_technologist: [Optimization Course at MIPT](https://github.com/girafe-ai/msai-optimization)
 
 ### :tv: [Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
